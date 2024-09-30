@@ -7,4 +7,8 @@
 
 · Para empezar iremos a la parte de graficos en la configuración. PRECAUCION NO TOQUES LA RESOLUCION A NO SER QUE LO NECESITES. La calidad de la lluvia la pondremos a baja, se vera raro al entrar en algun
 lugar pero se necesita para que el juego vaya bien, lo recomiendo a media o baja. Las sombras, lo mismo, a baja calidad y deshabilitadas, se vera un poco raro pero te acostumbraras.
-· A continuación iremos a la parte de calidad, la ponemos en bajo y el agarre preciso es opcional
+· A continuación iremos a la parte de calidad, la ponemos en bajo y el agarre preciso es opcional.
+· El antisailing ponerlo en bajo y la distancia de renderizado al minimo, porque reducira la calidad de los modelos cuando estes muy lejos de ellos.
+
+
+- Eso seria todo, si sigues teniendo problemas de lag o bajadas de FPS, no es mi problema y tendras que buscar otra solucion, por ejemplo el VSync que sincroniza los FPS de tu ordenador al juego.
